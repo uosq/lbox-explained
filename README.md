@@ -14,4 +14,8 @@ layout:
 
 # Welcome
 
-This is made
+This doc was made so that every feature in LMAOBOX is explained and documented
+
+There is nothing else in this page
+
+WIP
